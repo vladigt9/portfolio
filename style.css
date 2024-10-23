@@ -308,6 +308,18 @@ h4 {
   .ed-list {
     flex-direction: column;
   }
+
+  #amd, .pro-logo {
+    margin-bottom: 40px;
+  }
+
+  .pro-logo {
+    margin-top: 40px;
+  }
+
+  #pro-div {
+    margin-top: 0;
+  }
 }
 
 @media (max-width: 980px) {
